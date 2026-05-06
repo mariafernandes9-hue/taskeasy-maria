@@ -14,7 +14,10 @@ public class TaskEasy {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-         System.out.println("Bem-vindo ao meu repositório =)");
+        System.out.println("Bem-vindo ao meu repositório =");
+         
+        System.out.println("Vish, tem que mudar um montão de coisa viu");
+
 
     }
     
