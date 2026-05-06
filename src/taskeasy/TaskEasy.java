@@ -9,16 +9,11 @@ package taskeasy;
  * @author mclar
  */
 public class TaskEasy {
+public static void main(String[] args) {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Bem-vindo ao meu repositório =");
-         
-        System.out.println("Vish, tem que mudar um montão de coisa viu");
-
-
-    }
+        System.out.println("Bem-vindo ao sistema TaskEasy");
+        System.out.println("1 - Cadastrar tarefa");
+        System.out.println("2 - Listar tarefas");
     
+}
 }
